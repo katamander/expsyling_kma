@@ -1,1 +1,2 @@
 # expsyling_kma
+This repository contains two folders, `personal_coding_project` and `group_project`, which contains code and data that fulfills assignments 2a and 2b, respectively, in the Experimental Psycholinguistics portfolio exam.
